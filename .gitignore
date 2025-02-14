@@ -11,3 +11,6 @@
 .idea/
 
 clahe_images/
+cropped_images/
+image_files/
+video_files/
