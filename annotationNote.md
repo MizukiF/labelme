@@ -12,12 +12,12 @@ only annotate in moving frames
 clahe_images <br>
 |<br>
 |-----No1<br>
+| |<br>
+|  |---anno # anno and img files are needed to be same number<br> 
 |  |<br>
-|  |---anno # anno and img files are needed to be same number 
-|  |
-|  |---img # (if you annotated x to y, frame_x.png to frame_y.png are here
-|  |
-|  |---images not used
+|  |---img # (if you annotated x to y, frame_x.png to frame_y.png are here)<br>
+|  |<br>
+|  |---images not used<br
 |
 |
 |

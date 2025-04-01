@@ -4,7 +4,7 @@ import cv2
 import os
 
 # Set directory
-video_No = 14
+video_No = 17
 annotation_dir = f"C:/Users/mizuk/Desktop/Study/labelme/clahe_images/No{video_No}/anno"
 mask_dir = f"C:/Users/mizuk/Desktop/Study/labelme/clahe_images/No{video_No}/mask"
 os.makedirs(mask_dir, exist_ok=True)
